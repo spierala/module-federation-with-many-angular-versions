@@ -4,7 +4,7 @@ Following this guide, it should be possible to load Angular apps as Web Componen
 
 https://www.angulararchitects.io/en/aktuelles/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/
 
-Like that it is possible to load e.g. an Angular 12 Micro Frontend into an Angular 14 shell.
+Like that we can load e.g. an Angular 12 Micro Frontend into an Angular 14 shell.
 
 ### However, there are still some issues:
 
