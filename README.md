@@ -22,8 +22,6 @@ The shell app and the Micro Frontends ("ng-12-mf" etc) will open in the browser:
 
 Shell:
 
-Let's see the Micro Frontends in Action in the shell app:
-
 ![image](https://user-images.githubusercontent.com/1272446/215782369-521688ef-edf8-4470-943c-4478b21f9143.png)
 
 
@@ -32,7 +30,9 @@ The Micro Frontends look like this:
 ![image](https://user-images.githubusercontent.com/1272446/215782521-24d7c70c-072d-464a-87c0-4a8be925f584.png)
 
 
-## Shell:
+## Shell
+
+Let's see the Micro Frontends in Action in the shell app:
 
 ### Angular 12 Micro Frontend
 
