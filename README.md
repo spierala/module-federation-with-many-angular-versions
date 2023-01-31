@@ -1,5 +1,17 @@
 # module-federation-with-many-angular-versions
-Run many Angular apps as Web Components in an Angular 14 shell. The apps use Angular 12, 13, and 14.
+
+Following this guide, it should be possible to load Angular apps as Web Components into a shell app, using Module Federation:
+
+https://www.angulararchitects.io/en/aktuelles/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/
+
+Like that it is possible to load e.g. an Angular 12 Micro Frontend into an Angular 14 shell.
+
+### However, there are still some issues:
+
+- ng13 MF does not work in ng14 shell
+- ng14 MR does not work properly in an ng14 shell
+
+I created this repo in the hope to fix the issues.
 
 # Getting started
 
